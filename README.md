@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Turning%20error%20messages%2C%20wild%20ideas%2C%20and%20caffeine%20into%20working%20software.;Support%20specialist.%20Developer%20in%20progress.%20Collector%20of%20questionable%20side%20projects." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### ✨ About Me
 
 Support specialist, developer in progress, and part-time server whisperer. I solve messy technical problems, build practical tools, and refuse to accept that functional software has to be ugly.
 
