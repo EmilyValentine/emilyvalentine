@@ -56,9 +56,11 @@ Support specialist, developer in progress, and part-time server whisperer. I sol
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emilyvalentine&bg_color=00000000&color=b182de&line=b182de&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EmilyValentine&bg_color=0d1117&color=b182de&line=b182de&point=c9d1d9&area=true&hide_border=true"
+    alt="Emily Valentine's GitHub activity graph"
+  />
 </p>
-
 ### 💭 Dev Quote
 
 <p align="center">
