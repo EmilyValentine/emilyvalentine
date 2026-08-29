@@ -49,13 +49,8 @@ Support specialist, developer in progress, and part-time server whisperer. I sol
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/emilyvalentine">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=b182de&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Emily" alt="Hello! I&#39;m Emily" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Turning%20error%20messages%2C%20wild%20ideas%2C%20and%20caffeine%20into%20working%20software.;Support%20specialist.%20Developer%20in%20progress.%20Collector%20of%20questionable%20side%20projects." alt="Typing headlines" />
+  <img height="165" src="./profile/stats.svg" alt="Emily Valentine's GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Emily Valentine's Top Languages" />
 </p>
 
 ### ✨ About Me
