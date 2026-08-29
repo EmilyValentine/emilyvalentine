@@ -22,7 +22,7 @@ jobs:
           card: stats
           options: username=emilyvalentine&show_icons=true&theme=tokyonight&title_color=b182de&icon_color=b182de&hide_border=true&bg_color=00000000
           path: profile/stats.svg
-          token: token: ${{ secrets.PAT }}
+          token: ${{ secrets.PAT }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -30,7 +30,7 @@ jobs:
           card: top-langs
           options: username=emilyvalentine&layout=compact&theme=tokyonight&title_color=b182de&hide_border=true&bg_color=00000000&langs_count=8
           path: profile/top-langs.svg
-          token: token: ${{ secrets.PAT }}
+          token: ${{ secrets.PAT }}
 
       - name: Commit updated cards
         run: |
